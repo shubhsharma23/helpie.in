@@ -1,0 +1,40 @@
+#container {
+    width: 100%;
+    background-color: lightcoral;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#imgcontainer {
+    background-color: khaki;
+    display: flex;
+    width: 30%;
+    overflow: hidden;
+    margin: 20px;
+    border-radius: 20px;
+    border: 4px solid grey;
+    
+}
+
+#img2 {
+    padding: 2px;
+    width: 60%;
+    height: 100%;
+    background-color: white;
+}
+
+#info{
+    width:40%
+}
+
+#title{
+   text-align: center;
+   font-size: 25px;
+}
+
+#detail{
+    text-align: center;
+    padding: 1px;
+    color: #777;
+}

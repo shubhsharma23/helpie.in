@@ -1,0 +1,26 @@
+
+
+#nav{
+    align-self: center;
+    height: 40px;
+    background-color: rgb(121, 77, 201);
+    display: flex
+}
+
+#txt{
+    color:white;
+    margin: 20px;
+}
+
+#img{
+    margin-left: 25%;
+}
+
+#imgContainer{
+ align-self: center;
+ 
+}
+
+#strip{
+    
+}
